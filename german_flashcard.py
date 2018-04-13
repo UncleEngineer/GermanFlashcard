@@ -1,6 +1,7 @@
 # Visit Our facebook page: Uncle Engineer
 # www.facebook.com/UncleEngineer
 # www.uncle-engineer.com/python
+# if error open cmd: pip install Pillow
 
 from tkinter import *
 from tkinter import ttk
